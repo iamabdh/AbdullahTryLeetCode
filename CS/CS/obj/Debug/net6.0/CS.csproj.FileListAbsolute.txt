@@ -1,0 +1,15 @@
+/home/kaliabdh/Desktop/codeing/AbdullahTryLeetCode/CS/CS/bin/Debug/net6.0/CS
+/home/kaliabdh/Desktop/codeing/AbdullahTryLeetCode/CS/CS/bin/Debug/net6.0/CS.deps.json
+/home/kaliabdh/Desktop/codeing/AbdullahTryLeetCode/CS/CS/bin/Debug/net6.0/CS.runtimeconfig.json
+/home/kaliabdh/Desktop/codeing/AbdullahTryLeetCode/CS/CS/bin/Debug/net6.0/CS.dll
+/home/kaliabdh/Desktop/codeing/AbdullahTryLeetCode/CS/CS/bin/Debug/net6.0/ref/CS.dll
+/home/kaliabdh/Desktop/codeing/AbdullahTryLeetCode/CS/CS/bin/Debug/net6.0/CS.pdb
+/home/kaliabdh/Desktop/codeing/AbdullahTryLeetCode/CS/CS/obj/Debug/net6.0/CS.csproj.AssemblyReference.cache
+/home/kaliabdh/Desktop/codeing/AbdullahTryLeetCode/CS/CS/obj/Debug/net6.0/CS.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaliabdh/Desktop/codeing/AbdullahTryLeetCode/CS/CS/obj/Debug/net6.0/CS.AssemblyInfoInputs.cache
+/home/kaliabdh/Desktop/codeing/AbdullahTryLeetCode/CS/CS/obj/Debug/net6.0/CS.AssemblyInfo.cs
+/home/kaliabdh/Desktop/codeing/AbdullahTryLeetCode/CS/CS/obj/Debug/net6.0/CS.csproj.CoreCompileInputs.cache
+/home/kaliabdh/Desktop/codeing/AbdullahTryLeetCode/CS/CS/obj/Debug/net6.0/CS.dll
+/home/kaliabdh/Desktop/codeing/AbdullahTryLeetCode/CS/CS/obj/Debug/net6.0/ref/CS.dll
+/home/kaliabdh/Desktop/codeing/AbdullahTryLeetCode/CS/CS/obj/Debug/net6.0/CS.pdb
+/home/kaliabdh/Desktop/codeing/AbdullahTryLeetCode/CS/CS/obj/Debug/net6.0/CS.genruntimeconfig.cache
