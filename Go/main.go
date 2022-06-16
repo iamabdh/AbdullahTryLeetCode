@@ -1,11 +1,11 @@
 package main
 
 import (
-	b "GO/2108"
+	b "GO/34"
 	"fmt"
 )
 
 func main() {
-	words := []string{"abc", "car", "adt", "racecaer", "cool"}
-	fmt.Println(b.FirstPalindrome(words))
+	x := []int{1, 1, 4, 6, 9}
+	fmt.Println(b.SearchRange(x, 9))
 }
