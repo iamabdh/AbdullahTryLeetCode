@@ -1,11 +1,10 @@
 package main
 
 import (
-	b "GO/34"
+	b "GO/151"
 	"fmt"
 )
 
 func main() {
-	x := []int{1, 1, 4, 6, 9}
-	fmt.Println(b.SearchRange(x, 9))
+	fmt.Println(b.ReverseWord("a good   example"))
 }
